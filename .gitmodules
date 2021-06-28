@@ -1,0 +1,3 @@
+[submodule "SimpleSaxParser"]
+	path = SimpleSaxParser
+	url = https://github.com/NatLangProc/SimpleSaxParser
