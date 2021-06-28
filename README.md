@@ -1,2 +1,4 @@
 # Wiktionalyser
-Analysing of WIktionary dumps
+Analysing of Wiktionary dumps
+
+git clone --recurse-submodules https://github.com/NatLangProc/Wiktionalyser
